@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/bZwYhRYcv8Lp7kJzCTe47mjWfuqWVLYLyGKB+6HHN4pusUmYO6NMOZtmpBOOVXa1xewLDHAoM022vd9zL2aOg==",
+  "success": true,
+  "projectFilePath": "C:\\UCParking23-master\\UCP.App.Dominio\\UCP.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eider\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\eider\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\eider\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

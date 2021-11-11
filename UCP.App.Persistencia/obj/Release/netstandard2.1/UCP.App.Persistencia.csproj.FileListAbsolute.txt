@@ -1,0 +1,13 @@
+C:\UCParking23-master\UCP.App.Persistencia\bin\Release\netstandard2.1\UCP.App.Persistencia.deps.json
+C:\UCParking23-master\UCP.App.Persistencia\bin\Release\netstandard2.1\UCP.App.Persistencia.dll
+C:\UCParking23-master\UCP.App.Persistencia\bin\Release\netstandard2.1\UCP.App.Persistencia.pdb
+C:\UCParking23-master\UCP.App.Persistencia\bin\Release\netstandard2.1\UCP.App.Dominio.dll
+C:\UCParking23-master\UCP.App.Persistencia\bin\Release\netstandard2.1\UCP.App.Dominio.pdb
+C:\UCParking23-master\UCP.App.Persistencia\obj\Release\netstandard2.1\UCP.App.Persistencia.csproj.AssemblyReference.cache
+C:\UCParking23-master\UCP.App.Persistencia\obj\Release\netstandard2.1\UCP.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\UCParking23-master\UCP.App.Persistencia\obj\Release\netstandard2.1\UCP.App.Persistencia.AssemblyInfoInputs.cache
+C:\UCParking23-master\UCP.App.Persistencia\obj\Release\netstandard2.1\UCP.App.Persistencia.AssemblyInfo.cs
+C:\UCParking23-master\UCP.App.Persistencia\obj\Release\netstandard2.1\UCP.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\UCParking23-master\UCP.App.Persistencia\obj\Release\netstandard2.1\UCP.App.Persistencia.csproj.CopyComplete
+C:\UCParking23-master\UCP.App.Persistencia\obj\Release\netstandard2.1\UCP.App.Persistencia.dll
+C:\UCParking23-master\UCP.App.Persistencia\obj\Release\netstandard2.1\UCP.App.Persistencia.pdb

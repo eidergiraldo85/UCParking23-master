@@ -1,0 +1,18 @@
+﻿@page
+@model UCP.App.Frontend.Pages.DetallesModel
+@{
+}
+<h1>Detalle Profesor</h1>
+<table class="table">
+    <tr>
+        <td>@Model.profesor.nombre</td>
+        <td>@Model.profesor.apellidos</td>
+        <td>@Model.profesor.identificacion</td>
+        <td>@Model.profesor.telefono</td>
+        <td>@Model.profesor.correo</td>
+        <td>@Model.profesor.vehiculo_1</td>
+        <td>@Model.profesor.facultad</td>
+        <td>@Model.profesor.cubiculo</td>
+    </tr>
+</table>
+<a class="nav-link text-dark" asp-area="" asp-page="/Listas/Personas">Personas</a>
